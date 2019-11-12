@@ -1,5 +1,5 @@
 %% AUTOR: Maciej Wawrzyniec
-%% Program na korepetycje.
+%% Realizacja projektu
 
 %% Uporzadkowanie tekstu.
 % Uporzadkowac niechlujnie napisany plik tekstowy (usunac nadmiarowe spacje, dopsowac lub
